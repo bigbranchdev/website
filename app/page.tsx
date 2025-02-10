@@ -7,11 +7,12 @@ export default function Page() {
         bigbranch's blog
       </h1>
       <p className="mb-4">
-        {`I'm a Vim enthusiast and tab advocate, finding unmatched efficiency in
-        Vim's keystroke commands and tabs' flexibility for personal viewing
-        preferences. This extends to my support for static typing, where its
-        early error detection ensures cleaner code, and my preference for dark
-        mode, which eases long coding sessions by reducing eye strain.`}
+        {`¡Hola, Mundo! Mi nombre es Ramón y soy un entusiasta de la tecnología.
+        Este es un blog personal en el que escribiré sobre un estilo de vida 
+        conectado y actual hablando de cualquier tema que pueda interesarme lo 
+        suficiente de manera relajada, personal y con aroma. ¡Espero que lo 
+        disfrutes!
+      `}
       </p>
       <div className="my-8">
         <BlogPosts />
